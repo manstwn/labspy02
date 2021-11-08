@@ -2,7 +2,7 @@
 # Iman Setiawan
 
 **PDF Modul Praktikum 2 - Tugas Praktikum 2**\
-**Program Menampilkan Bilangan Terbesar**
+**Program Menentukan Bilangan Terbesar**
 
 Berikut adalah Flowchart dari code python yang akan saya buat.\
 ![screenshot output](screenshot/flowchart.jpg)
