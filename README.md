@@ -1,4 +1,4 @@
-# Kondisional dan Perulangan Python
+# Skturtur Kondisi
 # Iman Setiawan
 
 **PDF Modul Praktikum - Tugas Praktikum 2**\
