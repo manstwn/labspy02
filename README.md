@@ -4,8 +4,8 @@
 **PDF Modul Praktikum - Tugas Praktikum 2**\
 **Program Menampilkan Bilangan Terbesar**
 
-Berikut adalah Flowchart code yang akan saya buat.
-![screenshot output](flowchart.jpg)
+Berikut adalah Flowchart code yang akan saya buat.\
+![screenshot output](screenshot/flowchart.jpg)
 
 Ini adalah code pyhton saya\
 Sangat sederhana, hanya menggunakan if dan elif.\
@@ -29,13 +29,13 @@ else:
 
 Dan ini adalah hasil output dari Program di atas.\
 Kondisi 1, angka 1 adalah angka terbesar.\
-Dengan input 3,2,1
+Dengan input 3,2,1\
 ![screenshot output](screenshot/ss1.png)\
-Kondisi 2, angka 2 adalah angka terbesar.
-Dengan input 1,3,2
+Kondisi 2, angka 2 adalah angka terbesar.\
+Dengan input 1,3,2\
 ![screenshot output](screenshot/ss2.png)\
-Kondisi 2, angka 2 adalah angka terbesar.
-Dengan input 3,2,1
-![screenshot output](screenshot/ss3.png)\
+Kondisi 2, angka 2 adalah angka terbesar.\
+Dengan input 3,2,1\
+![screenshot output](screenshot/ss3.png)
 
 
