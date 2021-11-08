@@ -1,7 +1,7 @@
-# Struktur Kondisi
+# labspy02 - Struktur Kondisi
 # Iman Setiawan
 
-**PDF Modul Praktikum - Tugas Praktikum 2**\
+**PDF Modul Praktikum 2 - Tugas Praktikum 2**\
 **Program Menampilkan Bilangan Terbesar**
 
 Berikut adalah Flowchart dari code python yang akan saya buat.\
