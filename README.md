@@ -1,4 +1,4 @@
-# Skturtur Kondisi
+# Struktur Kondisi
 # Iman Setiawan
 
 **PDF Modul Praktikum - Tugas Praktikum 2**\
